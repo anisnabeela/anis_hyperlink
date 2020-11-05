@@ -1,0 +1,37 @@
+body{
+    margin: 0%;
+}
+
+nav{
+    width: 100%;
+    float: left;
+}
+
+.menu{
+    margin: 0%;
+    padding: 8px;
+    height: 18px;
+    background-color: #696969;
+}
+
+.menu li{
+    display: inline;
+}
+
+.button{
+    font-family: Georgia;
+    font-size: 1em;
+    color: white;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.button:link{
+    background-color: #696969;
+    color: white;
+}
+
+.button:hover{
+    background-color: #808080;
+
+}
